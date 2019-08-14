@@ -1,6 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A slightly more elaborate version of the example app on 
+[react-drag-and-drop](https://github.com/asbjornenge/react-drag-and-drop):
+
+  - Items can be dragged into the box, multiple times.
+  - Items can be dragged out of the box.
+  - App written using functional components and hooks
+
+Tested on Chrome 76.0.3809.100 and Firefox 68.0.2, on MacOS 10.14.6.
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
